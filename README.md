@@ -11,7 +11,7 @@ Depends on:
 - Ipython.parallel
 - pandas
 - nltk
-- 
+- stanford pos-tagger
 
 To improve:
 - documentation
